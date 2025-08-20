@@ -1,0 +1,106 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback - Nursery Management System</title>
+    <link rel="stylesheet" href="css/feedback.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+</head>
+<body>
+
+
+    <header class="home-header">
+        <nav class="navbar">
+            <div class="icon">
+                <i class="fa fa-heart"></i>
+                <i class="fa fa-shopping-cart"></i>
+                <a href="login.html"> <i class="fa fa-user "></i></a>
+            </div>
+            <h1 class="heading" style="color: white;"><span class="leaf">🍃</span><span class="Vrindavan" id="top">Ranwara</span><span class="vihar"> Nursarey</span></h1>
+            <div class="menu">
+                <a href="index.html" class="menu-item">Home</a>
+                <a href="Login.html" class="menu-item">Login</a>
+                <a href="product.html" class="menu-item">Product</a>
+                <a href="about.html" class="menu-item">About </a>
+                <a href="contact.html" class="menu-item">Contact</a>
+                <a href="feedback.html" class="menu-item">Feedback</a>
+            </div>
+        </nav>
+
+
+    <section class="feedback-container">
+        <h1>Feedback for Ranwara Nursarey</h1>
+        <p>Your opinion matters! Please share your feedback to help us improve our Nursery Management System.</p>
+
+        <form action="submit_feedback.php" method="POST" class="feedback-form">
+            <label for="name">Your Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Your Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="rating">Rating (1 to 5):</label>
+            <select id="rating" name="rating" required>
+                <option value="1">1 - Poor</option>
+                <option value="2">2 - Fair</option>
+                <option value="3">3 - Good</option>
+                <option value="4">4 - Very Good</option>
+                <option value="5">5 - Excellent</option>
+            </select>
+
+            <label for="comments">Additional Comments:</label>
+            <textarea id="comments" name="comments" rows="4" placeholder="Please share your thoughts..." required></textarea>
+
+            <button type="submit" class="submit-btn">Submit Feedback</button>
+        </form>
+    </section>
+    <footer class="font">
+        <div class="footer-sections">
+            
+            <div class="footer-links">
+                <h2><u>Quick Links</u></h2><br>
+                <ul>
+                    <li class="footer-text"><a href="index.html">Home</a></li><br>
+                    <li class="footer-text"><a href="product.html">Product</a></li><br>
+                    <li class="footer-text"><a href="about.html">About us</a></li><br>
+                    <li class="footer-text"><a href="contact.html">Contact us</a></li><br>
+                    <li class="footer-text"><a href="login.html">Login</a></li><br>
+                    <li class="footer-text"><a href="blog.html">Blog</a></li><br>
+                </ul>
+            </div>
+    
+            <div class="footer-info">
+                <h2><u>About Ranwara Nursery</u></h2>
+                <br>
+                <p  class="footer-text">Ranwara Nursery Management System helps plant lovers and gardeners access a wide variety of plants and landscaping solutions. Our system ensures efficient order management, plant care tips, and gardening assistance.</p>
+                <p  class="footer-text">Explore these helpful resources:</p>
+                <ul>
+                    <li><a href="https://www.indiagardening.com" target="_blank">India Gardening</a></li>
+                    <li><a href="https://www.nurserylive.com" target="_blank">Nursery Live</a></li>
+                    <li><a href="https://www.agriculture.com" target="_blank">Agriculture.com</a></li>
+                </ul>
+            </div>
+    
+            <div class="footer-contact">
+                <h2><u>Contact Us</u></h2><br>
+                <p class="footer-text">Address: Ranwara Nursery, Green Valley Road, Maharashtra, India</p>
+                <p class="footer-text">Email: support@ranwaranursery.com</p>
+                <p class="footer-text">Phone: +91-98765-43210</p>
+                <h2><u>Find Us Here:</u></h2><br> 
+                <iframe 
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3156.314387329895!2d144.96305771564117!3d-37.814217742632936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642af0f11fd81%3A0xf5773d7a7885690b!2sFederation%20Square!5e0!3m2!1sen!2sin!4v1636352363549!5m2!1sen!2sin" 
+                    width="300" height="200" style="border:0;" allowfullscreen="" loading="lazy">
+                </iframe>
+            </div>
+        </div>
+    
+        <div class="footer-bottom">
+            <p class="footer-text">© 2024 Ranwara Nursery Management System | All Rights Reserved</p>
+        </div>
+    </footer>
+    </body>
+    </html>

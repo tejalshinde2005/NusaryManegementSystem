@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="css/login.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+ 
+
+    <header class="home-header">
+        <nav class="navbar">
+            <div class="icon">
+                <i class="fa fa-heart"></i>
+                <i class="fa fa-shopping-cart"></i>
+                <a href="login.html"> <i class="fa fa-user "></i></a>
+            </div>
+            <h1 class="heading" style="color: white;"><span class="leaf">🍃</span><span class="Vrindavan" id="top">Ranwara</span><span class="vihar"> Nursarey</span></h1>
+            <div class="menu">
+                <a href="index.html" class="menu-item">Home</a>
+                <a href="Login.html" class="menu-item">Login</a>
+                <a href="product.html" class="menu-item">Product</a>
+                <a href="about.html" class="menu-item">About </a>
+                <a href="contact.html" class="menu-item">Contact</a>
+                <a href="feedbac.html" class="menu-item">Feedback</a>
+            </div>
+        </nav>
+
+    <section class="login-section">
+        <div class="login-box">
+            <h1><u>Login</u></h1>
+
+            
+
+            <!-- Dropdown for Role Selection -->
+            <div class="input-group">
+                <label for="role"><b>Select Role</b></label>
+                <select id="role" name="role">
+                    <option value="Nursarey">Nursarey</option>
+                    <option value="Customer">Customer</option>
+                    <option value="Admin">Admin</option>
+                </select>
+            </div>
+            
+            <form action="#" method="post">
+                <div class="input-group">
+                    <label for="username"><b>Username</b></label>
+                    <input type="text" id="username" name="username" placeholder="Enter your username" required>
+                </div>
+                <div class="input-group">
+                    <label for="password"><b>Password</b></label>
+                    <input type="password" id="password" name="password" placeholder="Enter your password" required>
+                </div> 
+                <div>
+                    <button type="submit" class="btn">Login</button>
+                </div><br>
+                <div class="links">
+                    <p>Forgot Password? <a href="registresation.html"> Register</a></p>
+                </div>
+            </form>
+        </div>
+    </section>
+
+    
+</body>
+</html>

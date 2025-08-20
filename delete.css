@@ -1,0 +1,63 @@
+/* delete.css */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+    color:#ec9532;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+form {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+button {
+    background-color:#ec9532;
+    color: white;
+    padding: 12px 18px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #ec9532;
+}
+
+button.cancel-btn {
+    background-color:rgb(29, 120, 53);
+}
+
+button.cancel-btn:hover {
+    background-color: rgb(29, 120, 53);
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.back{
+    width:700px;
+    background-color:#ec9532;
+}

@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Orders - Necessity Management System</title>
+    <link rel="stylesheet" href="css/order.css">
+</head>
+<body>
+    <!-- Sidebar -->
+    <aside class="sidebar">
+        <div class="sidebar-header">
+            <h2>Customer Dashboard</h2>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="order.html">My Order</a></li>
+                <li><a href="product.html">Product</a></li>
+                <li><a href="account.html">My Account</a></li>
+            </ul>
+        </nav>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <header>
+            <div class="header-info">
+                <h1>My Orders</h1>
+                <p>Customer ID: 123456</p>
+            </div>
+            <div class="header-actions">
+                <button>Logout</button>
+            </div>
+        </header>
+
+        <!-- Orders Overview -->
+        <section class="orders-overview">
+            <h2>Recent Orders</h2>
+            <table class="orders-table">
+                <thead>
+                    <tr>
+                        <th>Order ID</th>
+                        <th>Name</th>
+                        <th>Date</th>
+                        <th>Category</th>
+                        <th>Total Amount</th> <!-- New column for Name -->
+                        <th>Status</th> <!-- New column for Category -->
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>#12345</td>
+                        <td>Product XYZ</td>
+                        <td>2025-01-12</td>
+                        <td>Flowers</td>
+                        <td>$50.00</td> <!-- Example Name -->
+                        <td>Delivered</td> <!-- Example Category -->
+                    </tr>
+                    <!-- Add more rows as needed -->
+                </tbody>
+            </table>
+        </section>
+    </main>
+</body>
+</html>

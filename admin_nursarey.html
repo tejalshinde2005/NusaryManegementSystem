@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Farmer's Product List</title>
+    <link rel="stylesheet" href="css/admin_nursarey.css">
+</head>
+<body>
+
+    <h1>Nursarey plant List</h1>
+    <table class="data">
+        <thead>
+            <tr>
+                <th>Product ID</th>
+                <th>Product Name</th>
+                <th>Expected Price</th>
+                <th>Quantity</th>
+                <th>Upload Image</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>101</td>
+                <td>Tomatoes</td>
+                <td>25Rs per kg</td>
+                <td>50kg</td>
+                <td><input type="file" name="product-image" class="file-upload"></td>
+                <td>
+                    <a href="edit.html" class="edit-btn"><button class="edit-btn">Edit</button></a>
+                    <a href="delete.html" class="delete-btn"><button class="delete-btn">Delete</button></a>
+                </td>
+            </tr>
+            <!-- Add more rows as needed -->
+        </tbody>
+    </table>
+
+    <script src="script.js"></script>
+</body>
+</html>

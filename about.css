@@ -1,0 +1,114 @@
+/* General Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9fdf4;
+    color: #333;
+}
+
+/* Header Styles */
+header {
+    background-color: #28a745;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+.nav-links {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 10px 0 0;
+}
+
+.nav-links li {
+    display: inline;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: #f9fdf4;
+}
+
+/* About Us Section */
+.about-us {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.about-us h2 {
+    color: #28a745;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.about-us p, .about-us ul {
+    font-size: 1rem;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.about-us ul {
+    list-style-type: square;
+    margin: 20px auto;
+    text-align: left;
+}
+
+/* Offerings Section */
+.offerings {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.offering-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+
+.offering-card h4 {
+    color: #28a745;
+    margin-bottom: 10px;
+}
+
+.offering-card p {
+    color: #555;
+    font-size: 0.9rem;
+}
+
+/* Images Styling */
+.slide-img {
+    width: 250px;
+    height: 200px;
+    object-fit: cover;
+    margin: 10px;
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.slide-img:hover {
+    transform: scale(1.05);
+    box-shadow: 2px 5px 20px rgba(12, 11, 11, 0.2);
+}
+

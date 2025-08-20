@@ -1,0 +1,282 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: Calibri, sans-serif;
+    background: url("./../css/img/login-img.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+}
+
+/* Login Form Section */
+.login-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    padding: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 50px;
+}
+
+/* Login Box */
+.login-box {
+    background-color: hsla(0, 0%, 100%, 0.8); 
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+/* Heading */
+.login-box h1 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+}
+
+/* Form Group */
+.input-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.input-group label {
+    font-size: 1.1rem;
+    color: black;
+}
+
+.input-group input,
+.input-group select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Button Styling */
+.btn {
+    background-color: green;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #96c599;
+}
+
+/* Links Styling */
+.links {
+    margin-top: 10px;
+}
+
+.links p {
+    font-size: 1.2rem;
+}
+
+.links a {
+    color: #333;
+    text-decoration: none;
+}
+
+.links a span {
+    color: #007BFF;
+    font-weight: bold;
+}
+
+/* Responsive Design */
+
+/* Tablets and smaller screens (max-width: 1024px) */
+@media (max-width: 1024px) {
+    .login-box {
+        max-width: 80%;
+        padding: 25px;
+    }
+}
+
+/* Mobile devices (max-width: 768px) */
+@media (max-width: 768px) {
+    .login-section {
+        padding: 15px;
+    }
+
+    .login-box {
+        max-width: 90%;
+        padding: 20px;
+    }
+
+    .input-group input,
+    .input-group select {
+        font-size: 1rem;
+    }
+
+    .btn {
+        font-size: 1.1rem;
+    }
+}
+
+/* Small mobile devices (max-width: 480px) */
+@media (max-width: 480px) {
+    .login-section {
+        padding: 10px;
+    }
+
+    .login-box {
+        max-width: 95%;
+        padding: 15px;
+    }
+
+    .input-group input,
+    .input-group select {
+        font-size: 0.9rem;
+        padding: 8px;
+    }
+
+    .btn {
+        font-size: 1rem;
+        padding: 10px 15px;
+    }
+
+    .links p {
+        font-size: 0.9rem;
+    }
+}
+
+/* Very small mobile devices (max-width: 320px) */
+@media (max-width: 320px) {
+    .login-box {
+        padding: 10px;
+    }
+
+    .input-group input,
+    .input-group select {
+        font-size: 0.8rem;
+        padding: 6px;
+    }
+
+    .btn {
+        font-size: 0.9rem;
+        padding: 8px 12px;
+    }
+
+    .links p {
+        font-size: 0.8rem;
+    }
+}
+
+
+/* Header */
+
+.home-header{
+    width: 100%;
+    height: 100vh;
+  }
+  
+  .navbar{
+    width: 70px;
+    color: white;
+    width: 100%;
+    background-color: rgb(29, 120, 53);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: none;
+    
+  }
+  
+  .icon{
+    margin-left: 20px;
+    display: flex;
+  }
+  
+  .icon i{
+      margin-left: 10px;
+      font-size: 23px;
+      padding:  7px 5px;
+      cursor: pointer;
+      color: white;
+  }
+  
+  .icon i:hover{
+    border-radius: 5px;
+    background-color: white;
+    transition: 0.5s;
+  }
+  
+  .leaf{
+    font-size: 50px;
+  }
+  
+  .heading{
+      color: white;
+      text-align: center;
+      font-size: 50px;
+      display: flex;
+  }
+  
+  .Vrindavan{
+      color: white;
+      font-size: 50px;
+      font-weight: normal;
+      font-family: "Marck Script", cursive;
+  }
+  
+  .vihar{
+    font-size: 50px;
+  }
+  
+  .menu{
+      color: white;
+     
+      text-align: end;
+      display: flex;
+      align-items: center;
+  }
+  
+  .menu a{
+      color: white;
+      padding: 10px 20px;
+      text-decoration:  none;
+      cursor: pointer;
+      font-weight: bold;
+  }
+  
+  .menu a:hover{
+    border-radius: 25px;
+    background-color: white;
+    
+    transition: 0.5s;
+  }
+  
+  .menu-item{
+    font-size: 20px;
+  }
+  
+  /* header section start */
+  
+  .main-heading{
+      display: flex;
+      justify-content: space-evenly;
+      
+  }
+

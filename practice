@@ -1,0 +1,605 @@
+ fruit
+ 
+ <div class="text-centre1">
+            <button class="buy-now-btn1">Add To Cart</button>
+    </div>   
+    </div>
+    <div class="Fruit-card">
+        <img src="./../img/Fruits/f13.png" class="Fruit-img "/>
+        <h2 class="text-centre1 Fruit-name1">Tissue Culture lemon Plant</h2>
+
+        <b class="text-centre1">
+            <div class="text-centre1">
+                <span>
+                    <del class="rate1">₹100.00</del> &nbsp;<u><span><b>₹65.00</b></span></u>
+                </span><br/>
+            </div>
+            <div class="decription1">
+                Citrus plants are essential for kitchen gardens & sacred plants
+            </div>
+        </b>
+    <div class="text-centre1">
+            <button class="buy-now-btn1">Add To Cart</button>
+    </div>   
+    </div>
+    <div class="Fruit-card">
+        <img src="./../img/Fruits/f14.png" class="Fruit-img "/>
+        <h2 class="text-centre1 Fruit-name1">Chiku Plant (Sapota)Organic</h2>
+
+        <b class="text-centre1">
+            <div class="text-centre1">
+                <span>
+                    <del class="rate1">₹90.00</del> &nbsp;<u><span><b>₹40.00</b></span></u>
+                </span><br/>
+            </div>
+            <div class="decription1">
+                The Sapota Plant is an evergreen tree native to Central America.
+            </div>
+        </b>
+    <div class="text-centre1">
+            <button class="buy-now-btn1">Add To Cart</button>
+    </div>   
+    </div>
+    <div class="Fruit-card">
+        <img src="./../img/Fruits/f15.png" class="Fruit-img "/>
+        <h2 class="text-centre1 Fruit-name1">Lemon Plants(LM)Organ.</h2>
+
+        <b class="text-centre1">
+            <div class="text-centre1">
+                <span>
+                    <del class="rate1">₹59.00</del> &nbsp;<u><span><b>₹43.00</b></span></u>
+                </span><br/>
+            </div>
+            <div class="decription1">
+                This plant is categorized under fruit plant.
+            </div>
+        </b>
+    <div class="text-centre1">
+            <button class="buy-now-btn1">Add To Cart</button>
+    </div>   
+    </div>
+    <div class="Fruit-card">
+        <img src="./../img/Fruits/f17.png" class="Fruit-img "/>
+        <h2 class="text-centre1 Fruit-name1">Water Apple Red(Plant)</h2>
+
+        <b class="text-centre1">
+            <div class="text-centre1">
+                <span>
+                    <del class="rate1">₹100.00</del> &nbsp;<u><span><b>₹70.00</b></span></u>
+                </span><br/>
+            </div>
+            <div class="decription1">
+                It naturally thrives in wet, warm, and humid climatic conditions.
+            </div>
+        </b>
+    <div class="text-centre1">
+            <button class="buy-now-btn1">Add To Cart</button>
+    </div>   
+    </div>
+    <div class="Fruit-card">
+        <img src="./../img/Fruits/f15.png" class="Fruit-img "/>
+        <h2 class="text-centre1 Fruit-name1">Lemon Plants(LM)Organ.</h2>
+
+        <b class="text-centre1">
+            <div class="text-centre1">
+                <span>
+                    <del class="rate1">₹59.00</del> &nbsp;<u><span><b>₹43.00</b></span></u>
+                </span><br/>
+            </div>
+            <div class="decription1">
+                This plant is categorized under fruit plant.
+            </div>
+        </b>
+    <div class="text-centre1">
+            <button class="buy-now-btn1">Add To Cart</button>
+    </div>   
+    </div>
+    <div class="Fruit-card">
+        <img src="./../img/Fruits/f6.png" class="Fruit-img "/>
+        <h2 class="text-centre1 Fruit-name1">khirani-manikara hexandra.</h2>
+
+        <b class="text-centre1">
+            <div class="text-centre1">
+                <span>
+                    <del class="rate1">₹60.00</del> &nbsp;<u><span><b>₹45.00</b></span></u>
+                </span><br/>
+            </div>
+            <div class="decription1">
+                The Khirani fruit palnt is attractiveto the hybrid sappots.
+            </div>
+        </b>
+    <div class="text-centre1">
+            <button class="buy-now-btn1">Add To Cart</button>
+    </div>   
+    </div>
+    <div class="Fruit-card">
+        <img src="./../img/Fruits/f5.png" class="Fruit-img "/>
+        <h2 class="text-centre1 Fruit-name1">Mini Guava Greeng Plant</h2>
+
+        <b class="text-centre1">
+            <div class="text-centre1">
+                <span>
+                    <del class="rate1">₹100.00</del> &nbsp;<u><span><b>₹89.00</b></span></u>
+                </span><br/>
+            </div>
+            <div class="decription1">
+              A plant is the excllent houseplant with high yielding fruits.
+            </div>
+        </b>
+    <div class="text-centre1">
+            <button class="buy-now-btn1">Add To Cart</button>
+    </div>   
+    </div>
+    <div class="Fruit-card">
+        <img src="./../img/Fruits/f10.png" class="Fruit-img "/>
+        <h2 class="text-centre1 Fruit-name1">Orange plants(Narural)</h2>
+
+        <b class="text-centre1">
+            <div class="text-centre1">
+                <span>
+                    <del class="rate1">₹80.00</del> &nbsp;<u><span><b>₹51.00</b></span></u>
+                </span><br/>
+            </div>
+            <div class="decription1">
+                A categorized under fruit plant,tree crop & outdoor plants.
+            </div>
+        </b>
+    <div class="text-centre1">
+            <button class="buy-now-btn1">Add To Cart</button>
+    </div>   
+    </div>
+
+
+    pott
+
+
+    <div class="Fruit-card">
+        <img src="./../img/aquaticplant/water stargrass.jpg" class="Fruit-img "/>
+        <h2 class="text-centre1 Fruit-name1">Water <br/>Stargrass</h2>
+                                    
+        <b class="text-centre1">
+        <div class="text-centre1">
+        <span>
+        <del class="rate1">₹199.00</del> &nbsp;<u><span><b>₹99.00</b></span></u>
+         </span><br/>
+        </div>
+        <div class="decription1">
+            A submersed perennial that roots firmly in bottom sediment.
+        </div>
+        </b>
+        <div class="text-centre1">
+        <button class="buy-now-btn1 ">Add To Cart</button>
+         </div>   
+        </div>
+    
+        <div class="Fruit-card">
+            <img src="./../img/aquaticplant/white water lily.jpg" class="Fruit-img "/>
+            <h2 class="text-centre1 Fruit-name1">White Water <br/>Lily</h2>
+                                        
+            <b class="text-centre1">
+            <div class="text-centre1">
+            <span>
+            <del class="rate1">₹120.00</del> &nbsp;<u><span><b>₹99.00</b></span></u>
+             </span><br/>
+            </div>
+            <div class="decription1">
+                Aquatic plants that can be found in marshes. 
+            </div>
+            </b>
+            <div class="text-centre1">
+            <button class="buy-now-btn1 ">Add To Cart</button>
+             </div>   
+            </div>
+    
+            <div class="Fruit-card">
+                <img src="./../img/aquaticplant/oxygenating plant.jpg" class="Fruit-img "/>
+                <h2 class="text-centre1 Fruit-name1">Oxygenating<br/> Plant</h2>
+                                            
+                <b class="text-centre1">
+                <div class="text-centre1">
+                <span>
+                <del class="rate1">₹199.00</del> &nbsp;<u><span><b>₹169.00</b></span></u>
+                 </span><br/>
+                </div>
+                <div class="decription1">
+               Plants are industrial systems designed to generate oxygen. 
+                   
+                </div>
+                </b>
+                <div class="text-centre1">
+                <button class="buy-now-btn1 ">Add To Cart</button>
+                 </div>   
+                </div>
+    
+                <div class="Fruit-card">
+                    <img src="./../img/aquaticplant/algae.jpg" class="Fruit-img "/>
+                    <h2 class="text-centre1 Fruit-name1">Algae <br/>Plant</h2>
+                                                
+                    <b class="text-centre1">
+                    <div class="text-centre1">
+                    <span>
+                    <del class="rate1">₹99.00</del> &nbsp;<u><span><b>₹49.00</b></span></u>
+                     </span><br/>
+                    </div>
+                    <div class="decription1">
+                        Algae are defined as a group of predominantly aquatic.
+                        
+                    </div>
+                    </b>
+                    <div class="text-centre1">
+                    <button class="buy-now-btn1 ">Add To Cart</button>
+                     </div>   
+                    </div>
+    
+                    <div class="Fruit-card">
+                        <img src="./../img/aquaticplant/submerged plant.jpg" class="Fruit-img "/>
+                        <h2 class="text-centre1 Fruit-name1">Submerged<br/> Plant</h2>
+                                                    
+                        <b class="text-centre1">
+                        <div class="text-centre1">
+                        <span>
+                        <del class="rate1">₹199.00</del> &nbsp;<u><span><b>₹169.00</b></span></u>
+                         </span><br/>
+                        </div>
+                        <div class="decription1">
+                            Submerged plants have stems and leaves.
+                            
+                        </div>
+                        </b>
+                        <div class="text-centre1">
+                        <button class="buy-now-btn1 ">Add To Cart</button>
+                         </div>   
+                        </div>
+    
+                        <div class="Fruit-card">
+                            <img src="./../img/aquaticplant/emergent plant.jpg" class="Fruit-img "/>
+                            <h2 class="text-centre1 Fruit-name1">Emergent<br/> Plant</h2>
+                                                        
+                            <b class="text-centre1">
+                            <div class="text-centre1">
+                            <span>
+                            <del class="rate1">₹199.00</del> &nbsp;<u><span><b>₹169.00</b></span></u>
+                             </span><br/>
+                            </div>
+                            <div class="decription1">
+                                Emergent plants are rooted in the lake bottom.
+                        
+                            </div>
+                            </b>
+                            <div class="text-centre1">
+                            <button class="buy-now-btn1 ">Add To Cart</button>
+                             </div>   
+                            </div>
+    
+                            <div class="Fruit-card">
+                                <img src="./../img/aquaticplant/floating plant.jpg" class="Fruit-img "/>
+                                <h2 class="text-centre1 aquatic-name1">Floating <br/>Plant</h2>
+                                                            
+                                <b class="text-centre1">
+                                <div class="text-centre1">
+                                <span>
+                                <del class="rate1">₹99.00</del> &nbsp;<u><span><b>₹69.00</b></span></u>
+                                 </span><br/>
+                                </div>
+                                <div class="decription1">
+                                    True floating plants are not attached to the bottom. 
+                                    
+                                </div>
+                                </b>
+                                <div class="text-centre1">
+                                <button class="buy-now-btn1 ">Add To Cart</button>
+                                 </div>   
+                                </div>
+        
+    Herbal
+
+
+    <div class="Fruit-card">
+        <img src="./../img/herbal plant/neem.jpg" class="Fruit-img "/>
+                <h2 class="text-centre1 Fruit-name1">Neem<br> Plant</h2>
+        
+                <b class="text-centre1">
+                    <div class="text-centre1">
+                        <span>
+                            <del class="rate1">₹200.00</del> &nbsp;<u><span><b>₹149.00</b></span></u>
+                        </span><br/>
+                    </div>
+                    <div class="decription1">
+                        Neem trees are attractive broad-leaved evergreens.
+                    </div>
+                </b>
+                <div class="text-centre1">
+                    <button class="buy-now-btn1 ">Add To Cart</button>
+            </div>   
+        </div>
+
+        <div class="Fruit-card">
+            <img src="./../img/herbal plant/rosemary.jpg" class="Fruit-img "/>
+                    <h2 class="text-centre1 Fruit-name1">Rosemary<br> Plant</h2>
+            
+                    <b class="text-centre1">
+                        <div class="text-centre1">
+                            <span>
+                                <del class="rate1">₹259.00</del> &nbsp;<u><span><b>₹199.00</b></span></u>
+                            </span><br/>
+                        </div>
+                        <div class="decription1">
+                            Is an herb native to the Mediterranean region.
+                        </div>
+                    </b>
+                    <div class="text-centre1">
+                        <button class="buy-now-btn1 ">Add To Cart</button>
+                </div>   
+            </div>
+
+            <div class="Fruit-card">
+                <img src="./../img/herbal plant/tulsi.jpg" class="Fruit-img "/>
+                        <h2 class="text-centre1 Friut-name1">Tulsi<br> Plant</h2>
+                
+                        <b class="text-centre1">
+                            <div class="text-centre1">
+                                <span>
+                                    <del class="rate1">₹150.00</del> &nbsp;<u><span><b>₹109.00</b></span></u>
+                                </span><br/>
+                            </div>
+                            <div class="decription1">
+                                Tulsi is an aromatic shrub in the basil family.
+                            </div>
+                        </b>
+                        <div class="text-centre1">
+                            <button class="buy-now-btn1 ">Add To Cart</button>
+                    </div>   
+                </div>
+
+                <div class="Fruit-card">
+                    <img src="./../img/herbal plant/ginger.jpg" class="Fruit-img "/>
+                            <h2 class="text-centre1 Fruit-name1">Ginger<br> Plant</h2>
+                    
+                            <b class="text-centre1">
+                                <div class="text-centre1">
+                                    <span>
+                                        <del class="rate1">₹99.00</del> &nbsp;<u><span><b>₹59.00</b></span></u>
+                                    </span><br/>
+                                </div>
+                                <div class="decription1">
+                                    Ginger is a flowering plant whose rhizome, ginger root. 
+                                   
+                                </div>
+                            </b>
+                            <div class="text-centre1">
+                                <button class="buy-now-btn1 ">Add To Cart</button>
+                        </div>   
+                    </div>
+
+                    <div class="Fruit-card">
+                        <img src="./../img/herbal plant/arjun.jpg" class="Fruit-img "/>
+                                <h2 class="text-centre1 Fruit-name1">Arjun<br> Plant</h2>
+                        
+                                <b class="text-centre1">
+                                    <div class="text-centre1">
+                                        <span>
+                                            <del class="rate1">₹299.00</del> &nbsp;<u><span><b>₹199.00</b></span></u>
+                                        </span><br/>
+                                    </div>
+                                    <div class="decription1">
+                                        Terminalia arjuna is a tree of the genus Terminalia.
+                                    </div>
+                                </b>
+                                <div class="text-centre1">
+                                    <button class="buy-now-btn1 ">Add To Cart</button>
+                            </div>   
+                        </div>
+
+                        <div class="Fruit-card">
+                            <img src="./../img/herbal plant/fenugreek.jpg" class="Fruit-img "/>
+                                    <h2 class="text-centre1 Fruit-name1">Fenugreek <br>Plant</h2>
+                            
+                                    <b class="text-centre1">
+                                        <div class="text-centre1">
+                                            <span>
+                                                <del class="rate1">₹50.00</del> &nbsp;<u><span><b>₹30.00</b></span></u>
+                                            </span><br/>
+                                        </div>
+                                        <div class="decription1">
+                                            Fenugreek is an annual plant in the family Fabaceae, with leaves.
+                                        </div>
+                                    </b>
+                                    <div class="text-centre1">
+                                        <button class="buy-now-btn1 ">Add To Cart</button>
+                                </div>   
+                            </div>
+
+                            <div class="Fruit-card">
+                                <img src="./../img/herbal plant/peppermint.jpg" class="Fruit-img "/>
+                                        <h2 class="text-centre1 Fruit-name1">Peppermint<br> Plant</h2>
+                                
+                                        <b class="text-centre1">
+                                            <div class="text-centre1">
+                                                <span>
+                                                    <del class="rate1">₹150.00</del> &nbsp;<u><span><b>₹109.00</b></span></u>
+                                                </span><br/>
+                                            </div>
+                                            <div class="decription1">
+                                                Peppermint (Mentha × piperita) is a hybrid species of mint.
+                                            </div>
+                                        </b>
+                                        <div class="text-centre1">
+                                            <button class="buy-now-btn1 ">Add To Cart</button>
+                                    </div>   
+                                </div>
+
+                                <div class="Fruit-card">
+                                    <img src="./../img/herbal plant/water hyssop.jpg" class="Fruit-img "/>
+                                            <h2 class="text-centre1 Fruit-name1">Water Hyssop <br>Plant</h2>
+                                    
+                                            <b class="text-centre1">
+                                                <div class="text-centre1">
+                                                    <span>
+                                                        <del class="rate1">₹199.00</del> &nbsp;<u><span><b>₹99.00</b></span></u>
+                                                    </span><br/>
+                                                </div>
+                                                <div class="decription1">
+                                                    It is known by the common names water hyssop, waterhyssop, brahmi.
+                                                </div>
+                                            </b>
+                                            <div class="text-centre1">
+                                                <button class="buy-now-btn1 ">Add To Cart</button>
+                                        </div>   
+                                    </div>
+
+                
+                  
+</header>
+
+
+<div class="Fruit-card">
+    <img src="./../img/flowerplant/plant34.png" class="Fruit-img "/>
+    <h2 class="text-centre1 fruit-name">Cycas plant.</h2>
+
+    <b class="text-centre1">
+        <div class="text-centre1">
+            <span>
+                <del class="rate1">₹800.00</del> &nbsp;<u><span><b>₹780.00</b></span></u>
+            </span><br/>
+        </div>
+        <div class="decription1">
+            Sago palm.cycas revoluta-plant is a genus of cycad and the beautiful.
+        </div>
+    </b>
+<div class="text-centre1">
+        <button class="buy-now-btn1">Add To Cart</button>
+</div>   
+</div>
+
+<div class="Fruit-card">
+    <img src="./../img/flowerplant/plant36.png" class="Fruit-img "/>
+    <h2 class="text-centre1 fruit-name">Champa plant.</h2>
+
+    <b class="text-centre1">
+        <div class="text-centre1">
+            <span>
+                <del class="rate1">₹510.00</del> &nbsp;<u><span><b>₹459.00</b></span></u>
+            </span><br/>
+        </div>
+        <div class="decription1">
+            Plumeria Rubra plant mangolia champa in the family magnoliaceae.
+        </div>
+    </b>
+<div class="text-centre1">
+        <button class="buy-now-btn1 ">Add To Cart</button>
+</div>   
+</div>
+
+<div class="Fruit-card">
+    <img src="./../img/flowerplant/plant37.png" class="Fruit-img "/>
+    <h2 class="text-centre1 fruit-name">Schefflera  plant.</h2>
+
+    <b class="text-centre1">
+        <div class="text-centre1">
+            <span>
+                <del class="rate1">₹370.00</del> &nbsp;<u><span><b>₹350.00</b></span></u>
+            </span><br/>
+        </div>
+        <div class="decription1">
+            Schefflera Variegated plant is a genus  plant family araliaceae.
+        </div>
+    </b>
+<div class="text-centre1">
+        <button class="buy-now-btn1">Add To Cart</button>
+</div>   
+</div>
+
+<div class="Fruit-card">
+    <img src="./../img/flowerplant/plnat28.png" class="Fruit-img "/>
+    <h2 class="text-centre1 fruit-name">Asparagus-plant.</h2>
+
+    <b class="text-centre1">
+        <div class="text-centre1">
+            <span>
+                <del class="rate1">₹300.00</del> &nbsp;<u><span><b>₹280.00</b></span></u>
+            </span><br/>
+        </div>
+        <div class="decription1">
+            Asparagus meyeri plant is a prennial plant special in eurasia.
+        </div>
+    </b>
+<div class="text-centre1">
+        <button class="buy-now-btn1 ">Add To Cart</button>
+</div>   
+</div>
+    
+<div class="Fruit-card">
+    <img src="./../img/flowerplant/plant44.png" class="Fruit-img "/>
+    <h2 class="text-centre1 fruit-name">Kadi Patta plant.</h2>
+
+    <b class="text-centre1">
+        <div class="text-centre1">
+            <span>
+                <del class="rate1">₹350.00</del> &nbsp;<u><span><b>₹335.00</b></span></u>
+            </span><br/>
+        </div>
+        <div class="decription1">
+            Curry Leaves Kadi Patta plant is tropical and sub-tropical tree.
+        </div>
+    </b>
+<div class="text-centre1">
+        <button class="buy-now-btn1">Add To Cart</button>
+</div>   
+</div>
+
+<div class="Fruit-card">
+    <img src="./../img/flowerplant/plant45.png" class="Fruit-img "/>
+    <h2 class="text-centre1 fruit-name">Aloe vera plant.</h2>
+
+    <b class="text-centre1">
+        <div class="text-centre1">
+            <span>
+                <del class="rate1">₹400.00</del> &nbsp;<u><span><b>₹389.00</b></span></u>
+            </span><br/>
+        </div>
+        <div class="decription1">
+            Aloe vera-succulent plant succulent plant special of the aloe.
+        </div>
+    </b>
+<div class="text-centre1">
+        <button class="buy-now-btn1">Add To Cart</button>
+</div>   
+</div>
+
+<div class="Fruit-card">
+    <img src="./../img/flowerplant/plant47.png" class="Fruit-img "/>
+    <h2 class="text-centre1 fruit-name">Jai plant.</h2>
+
+    <b class="text-centre1">
+        <div class="text-centre1">
+            <span>
+                <del class="rate1">₹300.00</del> &nbsp;<u><span><b>₹280.00</b></span></u>
+            </span><br/>
+        </div>
+        <div class="decription1">
+          Jai plant has leaves that are dark green in color andmost sunlight.
+        </div>
+    </b>
+<div class="text-centre1">
+        <button class="buy-now-btn1">Add To Cart</button>
+</div>   
+</div>
+
+<div class="Fruit-card">
+    <img src="./../img/flowerplant/plant48.png" class="Fruit-img "/>
+    <h2 class="text-centre1 fruit-name">Kamini plant.</h2>
+
+    <b class="text-centre1">
+        <div class="text-centre1">
+            <span>
+                <del class="rate1">₹299.00</del> &nbsp;<u><span><b>₹280.00</b></span></u>
+            </span><br/>
+        </div>
+        <div class="decription1">
+            Kamini plant is the most beautiful plant and so attractive.
+        </div>
+    </b>
+<div class="text-centre1">
+        <button class="buy-now-btn1 ">Add To Cart</button>
+</div>   
+</div>

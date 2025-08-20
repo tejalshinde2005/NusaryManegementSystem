@@ -1,0 +1,71 @@
+/* edit.css */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+    color:rgb(29, 120, 53);
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+form {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+}
+
+input[type="text"], input[type="file"] {
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    left:5px;
+}
+
+button {
+    background-color:rgb(29, 120, 53);
+    color: white;
+    padding: 12px 18px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    background-color:rgb(29, 120, 53);
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+
+button[type="button"] {
+    background-color:#ec9532;
+    color: white;
+}
+
+button[type="button"]:hover {
+    background-color:#ec9532;
+}
+
+.back{
+    width:700px;
+}

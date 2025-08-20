@@ -1,0 +1,116 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:aqua;
+    background-size:contain;
+    background-image: url("./../css/img/plant.png");
+    
+}
+
+.container {
+    width: 90%;
+    max-width: 600px;
+    margin: 50px auto;
+    background-color:aqua;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    font-style: italic;
+}
+
+/* Form container */
+.form-container {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 6px;
+    font-weight: bold;
+    color: #333;
+}
+
+input, select, textarea {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    width: 100%;
+}
+
+input[type="checkbox"] {
+    margin-right: 8px;
+}
+
+button.submit-btn {
+    padding: 12px;
+    background-color:green;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+button.submit-btn:hover {
+    background-color: green;
+}
+
+body:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3); /* Transparent overlay */
+    z-index: -1;
+}
+
+
+.container {
+    width: 90%;
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: rgba(200, 200, 200, 0.50); /* White background with 85% opacity */
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px); /* Adds a subtle blur effect for modern browsers */
+}
+
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+        margin: 20px auto;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    .form-container {
+        padding: 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .form-container {
+        padding: 10px;
+    }
+
+    button.submit-btn {
+        font-size: 16px;
+        padding: 10px;
+    }
+}
